@@ -1,4 +1,4 @@
-baseURL = "l-yc.github.io/physics-website"
+baseURL = "https://l-yc.github.io/physics-website"
 languageCode = "en-us"
 title = "Physics Website"
 publishDir = "docs"
