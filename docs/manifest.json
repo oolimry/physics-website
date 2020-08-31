@@ -1,0 +1,15 @@
+{
+  "name": "Physics Website",
+  "short_name": "Physics Website",
+  "start_url": "/l-yc.github.io/physics-website/",
+  "scope": "/l-yc.github.io/physics-website/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/l-yc.github.io/physics-website/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
