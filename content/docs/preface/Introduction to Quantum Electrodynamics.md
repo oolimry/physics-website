@@ -16,17 +16,17 @@ In quantum electrodynamics, this concept applies as well.
 
 Take for example the repulsion of two electrons. We know that like charges repel, and two electrons close to each other should repel. But how can we explain this in terms of momentum?
 
-We can imagine the electron as a moving gun, and a photon as the bullet. As the electron “fires” the photon, the trajectory of the electron changes. The photon carries momentum to the right, and hence the electron must gain momentum leftwards. Hence, it moves left instead of right after firing the photon
+We can imagine the electron as a moving gun, and a photon as the bullet. As the electron “fires” the photon, the trajectory of the electron changes. The photon carries momentum to the right, and hence the electron must gain momentum leftwards. Hence, it moves left instead of right after firing the photon.
 
-
+(gif goes here)
 
 Now, instead of firing a photon, what about being hit by a photon? The photon transfers its momentum to the electron. In this case, the electron absorbs the photon. The rightward momentum of the photon is transferred to the left-moving electron, causing it to move to the right.
 
-
+(gif goes here)
 
 Now, the magic comes from combining the two halves together. This is actually the repulsion of two electrons.
 
-
+(gif goes here)
 
 When two electrons come close to each other, they exchange photons. These photons transfer momentum from one electron to another, and hence cause them to repel.
 
